@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EF_Core_Approaches", "src\L
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnConfiguring", "src\Lesson5\OnConfiguring.csproj", "{EF54210E-5695-4F64-BE53-667183D08C1A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Writing_Data", "src\Lesson6\Writing_Data.csproj", "{ABB999E7-F29F-4B5D-8C77-48B3EF5682E8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -35,6 +37,10 @@ Global
 		{EF54210E-5695-4F64-BE53-667183D08C1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EF54210E-5695-4F64-BE53-667183D08C1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EF54210E-5695-4F64-BE53-667183D08C1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABB999E7-F29F-4B5D-8C77-48B3EF5682E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABB999E7-F29F-4B5D-8C77-48B3EF5682E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABB999E7-F29F-4B5D-8C77-48B3EF5682E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABB999E7-F29F-4B5D-8C77-48B3EF5682E8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -47,5 +53,6 @@ Global
 		{29CE4430-2582-4008-A18B-2B31E5503DCE} = {CFDE77EF-8C1A-405B-9993-065A03D043BF}
 		{3E5B168F-7784-409D-A386-D93B517505F5} = {CFDE77EF-8C1A-405B-9993-065A03D043BF}
 		{EF54210E-5695-4F64-BE53-667183D08C1A} = {CFDE77EF-8C1A-405B-9993-065A03D043BF}
+		{ABB999E7-F29F-4B5D-8C77-48B3EF5682E8} = {CFDE77EF-8C1A-405B-9993-065A03D043BF}
 	EndGlobalSection
 EndGlobal
