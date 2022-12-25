@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modifying_Data", "src\Lesso
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Deleting_Data", "src\Lesson8\Deleting_Data.csproj", "{02B1E47D-2437-4715-AC3F-8BF8C8769A9B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IEnumerable_IQueryable", "src\Lesson9\IEnumerable_IQueryable.csproj", "{FDCA3A08-CF9D-45C5-A9A3-7BE00144CA2D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -53,6 +55,10 @@ Global
 		{02B1E47D-2437-4715-AC3F-8BF8C8769A9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{02B1E47D-2437-4715-AC3F-8BF8C8769A9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{02B1E47D-2437-4715-AC3F-8BF8C8769A9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDCA3A08-CF9D-45C5-A9A3-7BE00144CA2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDCA3A08-CF9D-45C5-A9A3-7BE00144CA2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDCA3A08-CF9D-45C5-A9A3-7BE00144CA2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDCA3A08-CF9D-45C5-A9A3-7BE00144CA2D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -68,5 +74,6 @@ Global
 		{ABB999E7-F29F-4B5D-8C77-48B3EF5682E8} = {CFDE77EF-8C1A-405B-9993-065A03D043BF}
 		{BE0D252E-2EE8-41C1-B784-9DD8E2191752} = {CFDE77EF-8C1A-405B-9993-065A03D043BF}
 		{02B1E47D-2437-4715-AC3F-8BF8C8769A9B} = {CFDE77EF-8C1A-405B-9993-065A03D043BF}
+		{FDCA3A08-CF9D-45C5-A9A3-7BE00144CA2D} = {CFDE77EF-8C1A-405B-9993-065A03D043BF}
 	EndGlobalSection
 EndGlobal
