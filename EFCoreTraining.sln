@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Change_Tracking_2", "src\Le
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Basic_Concepts_of_Relational_Database", "src\Lesson16\Basic_Concepts_of_Relational_Database.csproj", "{B8C96422-9863-40D4-8D69-A6DD15D85612}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "One_to_One_Relationship", "src\Lesson17\One_to_One_Relationship.csproj", "{63FEB362-4DBD-474D-90D9-D1A711315CC4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -101,6 +103,10 @@ Global
 		{B8C96422-9863-40D4-8D69-A6DD15D85612}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B8C96422-9863-40D4-8D69-A6DD15D85612}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B8C96422-9863-40D4-8D69-A6DD15D85612}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63FEB362-4DBD-474D-90D9-D1A711315CC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63FEB362-4DBD-474D-90D9-D1A711315CC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63FEB362-4DBD-474D-90D9-D1A711315CC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63FEB362-4DBD-474D-90D9-D1A711315CC4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -124,5 +130,6 @@ Global
 		{916EEC59-3362-457D-A6CF-C0A8214B8764} = {CFDE77EF-8C1A-405B-9993-065A03D043BF}
 		{8B639158-49CB-464C-8B9F-B1932A7CDDBD} = {CFDE77EF-8C1A-405B-9993-065A03D043BF}
 		{B8C96422-9863-40D4-8D69-A6DD15D85612} = {CFDE77EF-8C1A-405B-9993-065A03D043BF}
+		{63FEB362-4DBD-474D-90D9-D1A711315CC4} = {CFDE77EF-8C1A-405B-9993-065A03D043BF}
 	EndGlobalSection
 EndGlobal
