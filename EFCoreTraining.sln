@@ -49,6 +49,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data_Deleting_Behaviors_in_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Customizing_Entity_Configurations1", "src\Lesson23\Customizing_Entity_Configurations1.csproj", "{71E71778-6591-49B7-A3FD-926F7A910B79}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Customizing_Entity_Configurations2", "src\Lesson24\Customizing_Entity_Configurations2.csproj", "{FE575DFD-703A-4950-AF25-FCB52653304A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -143,6 +145,10 @@ Global
 		{71E71778-6591-49B7-A3FD-926F7A910B79}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{71E71778-6591-49B7-A3FD-926F7A910B79}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{71E71778-6591-49B7-A3FD-926F7A910B79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE575DFD-703A-4950-AF25-FCB52653304A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE575DFD-703A-4950-AF25-FCB52653304A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE575DFD-703A-4950-AF25-FCB52653304A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE575DFD-703A-4950-AF25-FCB52653304A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -173,5 +179,6 @@ Global
 		{84CECCFF-7292-43F4-AFC8-53800FA4A226} = {CFDE77EF-8C1A-405B-9993-065A03D043BF}
 		{FDF7B324-C4B3-4BFD-9F30-6FDDFC2A1BD7} = {CFDE77EF-8C1A-405B-9993-065A03D043BF}
 		{71E71778-6591-49B7-A3FD-926F7A910B79} = {CFDE77EF-8C1A-405B-9993-065A03D043BF}
+		{FE575DFD-703A-4950-AF25-FCB52653304A} = {CFDE77EF-8C1A-405B-9993-065A03D043BF}
 	EndGlobalSection
 EndGlobal
