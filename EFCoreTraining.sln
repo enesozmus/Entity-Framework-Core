@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Many_to_Many_Relationship",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data_Adding_Behaviors_in_Relational_Scenarios", "src\Lesson20\Data_Adding_Behaviors_in_Relational_Scenarios.csproj", "{448BCFC5-5566-4E28-B6D5-1C102F7A474A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data_Modifying_Behaviors_in_Relational_Scenarios", "src\Lesson21\Data_Modifying_Behaviors_in_Relational_Scenarios.csproj", "{84CECCFF-7292-43F4-AFC8-53800FA4A226}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -125,6 +127,10 @@ Global
 		{448BCFC5-5566-4E28-B6D5-1C102F7A474A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{448BCFC5-5566-4E28-B6D5-1C102F7A474A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{448BCFC5-5566-4E28-B6D5-1C102F7A474A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84CECCFF-7292-43F4-AFC8-53800FA4A226}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84CECCFF-7292-43F4-AFC8-53800FA4A226}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84CECCFF-7292-43F4-AFC8-53800FA4A226}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84CECCFF-7292-43F4-AFC8-53800FA4A226}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -152,5 +158,6 @@ Global
 		{1F5B6CB9-6EDA-49DB-A689-E18C85CBD22E} = {CFDE77EF-8C1A-405B-9993-065A03D043BF}
 		{2349144E-B699-429D-BEC3-CC37ECBD7F6A} = {CFDE77EF-8C1A-405B-9993-065A03D043BF}
 		{448BCFC5-5566-4E28-B6D5-1C102F7A474A} = {CFDE77EF-8C1A-405B-9993-065A03D043BF}
+		{84CECCFF-7292-43F4-AFC8-53800FA4A226} = {CFDE77EF-8C1A-405B-9993-065A03D043BF}
 	EndGlobalSection
 EndGlobal
