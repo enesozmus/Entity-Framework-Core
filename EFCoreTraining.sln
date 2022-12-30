@@ -59,6 +59,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data_Seeding", "src\Lesson2
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance", "src\Lesson28\Inheritance.csproj", "{72D965E6-2B26-47C6-92AB-6E8D67AA7156}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Table_per_hierarchy", "src\Lesson29\Table_per_hierarchy.csproj", "{0F879CB6-EDFD-45BC-8FDE-0DF31D50CB5F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -173,6 +175,10 @@ Global
 		{72D965E6-2B26-47C6-92AB-6E8D67AA7156}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{72D965E6-2B26-47C6-92AB-6E8D67AA7156}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{72D965E6-2B26-47C6-92AB-6E8D67AA7156}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F879CB6-EDFD-45BC-8FDE-0DF31D50CB5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F879CB6-EDFD-45BC-8FDE-0DF31D50CB5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F879CB6-EDFD-45BC-8FDE-0DF31D50CB5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F879CB6-EDFD-45BC-8FDE-0DF31D50CB5F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -208,5 +214,6 @@ Global
 		{B2173657-A3D4-4FA3-A3C2-1D7DA87A2350} = {CFDE77EF-8C1A-405B-9993-065A03D043BF}
 		{356F23C8-BC6B-4918-9648-187D66C0EEC6} = {CFDE77EF-8C1A-405B-9993-065A03D043BF}
 		{72D965E6-2B26-47C6-92AB-6E8D67AA7156} = {CFDE77EF-8C1A-405B-9993-065A03D043BF}
+		{0F879CB6-EDFD-45BC-8FDE-0DF31D50CB5F} = {CFDE77EF-8C1A-405B-9993-065A03D043BF}
 	EndGlobalSection
 EndGlobal
