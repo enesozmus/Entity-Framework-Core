@@ -65,6 +65,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Table_per_type", "src\Lesso
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Table_per_concrete_type", "src\Lesson31\Table_per_concrete_type.csproj", "{D43091A4-475A-47DF-B1B8-F9DCD729164B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constraints", "src\Lesson32\Constraints.csproj", "{641314B2-A65C-4631-B936-56311BA918C2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -191,6 +193,10 @@ Global
 		{D43091A4-475A-47DF-B1B8-F9DCD729164B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D43091A4-475A-47DF-B1B8-F9DCD729164B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D43091A4-475A-47DF-B1B8-F9DCD729164B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{641314B2-A65C-4631-B936-56311BA918C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{641314B2-A65C-4631-B936-56311BA918C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{641314B2-A65C-4631-B936-56311BA918C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{641314B2-A65C-4631-B936-56311BA918C2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -229,5 +235,6 @@ Global
 		{0F879CB6-EDFD-45BC-8FDE-0DF31D50CB5F} = {CFDE77EF-8C1A-405B-9993-065A03D043BF}
 		{66D35F26-A562-45FE-B76A-EE2363237957} = {CFDE77EF-8C1A-405B-9993-065A03D043BF}
 		{D43091A4-475A-47DF-B1B8-F9DCD729164B} = {CFDE77EF-8C1A-405B-9993-065A03D043BF}
+		{641314B2-A65C-4631-B936-56311BA918C2} = {CFDE77EF-8C1A-405B-9993-065A03D043BF}
 	EndGlobalSection
 EndGlobal
