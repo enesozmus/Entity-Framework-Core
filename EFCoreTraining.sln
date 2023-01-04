@@ -93,6 +93,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Functions", "src\Lesson42\F
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DbContext.Database_Property", "src\Lesson43\DbContext.Database_Property.csproj", "{99B33A52-CA60-4CE9-99CA-50A7DF1D06D7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simple_Logging", "src\Lesson44\Simple_Logging.csproj", "{6F9D8651-C9D0-4958-843D-B8AF1319A58D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -275,6 +277,10 @@ Global
 		{99B33A52-CA60-4CE9-99CA-50A7DF1D06D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{99B33A52-CA60-4CE9-99CA-50A7DF1D06D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{99B33A52-CA60-4CE9-99CA-50A7DF1D06D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F9D8651-C9D0-4958-843D-B8AF1319A58D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F9D8651-C9D0-4958-843D-B8AF1319A58D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F9D8651-C9D0-4958-843D-B8AF1319A58D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F9D8651-C9D0-4958-843D-B8AF1319A58D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -327,5 +333,6 @@ Global
 		{5703D319-C9FB-4B15-B090-9B2E26067B65} = {CFDE77EF-8C1A-405B-9993-065A03D043BF}
 		{151DA4A7-C449-48B7-8264-CDDD5147FFA3} = {CFDE77EF-8C1A-405B-9993-065A03D043BF}
 		{99B33A52-CA60-4CE9-99CA-50A7DF1D06D7} = {CFDE77EF-8C1A-405B-9993-065A03D043BF}
+		{6F9D8651-C9D0-4958-843D-B8AF1319A58D} = {CFDE77EF-8C1A-405B-9993-065A03D043BF}
 	EndGlobalSection
 EndGlobal
