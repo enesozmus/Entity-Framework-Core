@@ -101,6 +101,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Owned_Entities", "src\Lesso
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Keyless_Entity", "src\Lesson47\Keyless_Entity.csproj", "{DEB24B24-0649-4EE5-82A3-1C42DE2DBCEE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Global_Query_Filters", "src\Lesson48\Global_Query_Filters.csproj", "{38F2D9E0-E8B8-4BA5-897A-4B1DCAA48045}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -299,6 +301,10 @@ Global
 		{DEB24B24-0649-4EE5-82A3-1C42DE2DBCEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DEB24B24-0649-4EE5-82A3-1C42DE2DBCEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DEB24B24-0649-4EE5-82A3-1C42DE2DBCEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38F2D9E0-E8B8-4BA5-897A-4B1DCAA48045}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38F2D9E0-E8B8-4BA5-897A-4B1DCAA48045}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38F2D9E0-E8B8-4BA5-897A-4B1DCAA48045}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38F2D9E0-E8B8-4BA5-897A-4B1DCAA48045}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -355,5 +361,6 @@ Global
 		{CE20D9A0-49E8-42D2-AEEE-6E5DD19686BB} = {CFDE77EF-8C1A-405B-9993-065A03D043BF}
 		{8080C78E-23BB-4C20-AA70-998B2F6F2BE3} = {CFDE77EF-8C1A-405B-9993-065A03D043BF}
 		{DEB24B24-0649-4EE5-82A3-1C42DE2DBCEE} = {CFDE77EF-8C1A-405B-9993-065A03D043BF}
+		{38F2D9E0-E8B8-4BA5-897A-4B1DCAA48045} = {CFDE77EF-8C1A-405B-9993-065A03D043BF}
 	EndGlobalSection
 EndGlobal
