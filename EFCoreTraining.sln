@@ -111,6 +111,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Concurrency_Conflicts", "sr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Value_Conversions", "src\Lesson52\Value_Conversions.csproj", "{C77FFCB5-8DF5-4F55-86BE-73339752B99D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Transactions", "src\Lesson53\Transactions.csproj", "{A9129781-212C-4906-82FF-E7FE9B931F80}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -329,6 +331,10 @@ Global
 		{C77FFCB5-8DF5-4F55-86BE-73339752B99D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C77FFCB5-8DF5-4F55-86BE-73339752B99D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C77FFCB5-8DF5-4F55-86BE-73339752B99D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9129781-212C-4906-82FF-E7FE9B931F80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9129781-212C-4906-82FF-E7FE9B931F80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9129781-212C-4906-82FF-E7FE9B931F80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9129781-212C-4906-82FF-E7FE9B931F80}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -390,5 +396,6 @@ Global
 		{88311FB3-C385-4726-A151-6CB923ABC456} = {CFDE77EF-8C1A-405B-9993-065A03D043BF}
 		{63E1F562-2FF2-4EEC-B13D-F489F5D845BB} = {CFDE77EF-8C1A-405B-9993-065A03D043BF}
 		{C77FFCB5-8DF5-4F55-86BE-73339752B99D} = {CFDE77EF-8C1A-405B-9993-065A03D043BF}
+		{A9129781-212C-4906-82FF-E7FE9B931F80} = {CFDE77EF-8C1A-405B-9993-065A03D043BF}
 	EndGlobalSection
 EndGlobal
