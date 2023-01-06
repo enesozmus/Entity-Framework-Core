@@ -109,6 +109,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Connection_Resiliency", "sr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Concurrency_Conflicts", "src\Lesson51\Concurrency_Conflicts.csproj", "{63E1F562-2FF2-4EEC-B13D-F489F5D845BB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Value_Conversions", "src\Lesson52\Value_Conversions.csproj", "{C77FFCB5-8DF5-4F55-86BE-73339752B99D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -323,6 +325,10 @@ Global
 		{63E1F562-2FF2-4EEC-B13D-F489F5D845BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{63E1F562-2FF2-4EEC-B13D-F489F5D845BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{63E1F562-2FF2-4EEC-B13D-F489F5D845BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C77FFCB5-8DF5-4F55-86BE-73339752B99D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C77FFCB5-8DF5-4F55-86BE-73339752B99D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C77FFCB5-8DF5-4F55-86BE-73339752B99D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C77FFCB5-8DF5-4F55-86BE-73339752B99D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -383,5 +389,6 @@ Global
 		{8E83684E-03C3-4466-ACD6-5AAC4F7AA5C2} = {CFDE77EF-8C1A-405B-9993-065A03D043BF}
 		{88311FB3-C385-4726-A151-6CB923ABC456} = {CFDE77EF-8C1A-405B-9993-065A03D043BF}
 		{63E1F562-2FF2-4EEC-B13D-F489F5D845BB} = {CFDE77EF-8C1A-405B-9993-065A03D043BF}
+		{C77FFCB5-8DF5-4F55-86BE-73339752B99D} = {CFDE77EF-8C1A-405B-9993-065A03D043BF}
 	EndGlobalSection
 EndGlobal
