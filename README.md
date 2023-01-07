@@ -1,9 +1,8 @@
 # 🚧 Entity Framework Core
 
-> - [EF Core resmi dokümantasyonu](https://learn.microsoft.com/en-us/ef/core/), [Gençay Yıldız](https://www.linkedin.com/in/gen%C3%A7ay-y%C4%B1ld%C4%B1z-a1453987/) ve [Fatih Çakıroğlu](https://www.linkedin.com/in/fatih-%C3%A7ak%C4%B1ro%C4%9Flu-a5419a18a) adlı yazılım geliştiricilerin çalışmalarını takip ederek Entity Framework Core öğrenme serüvenim...
+> - [EF Core resmi dokümantasyonu](https://learn.microsoft.com/en-us/ef/core/) ve [Gençay Yıldız](https://www.linkedin.com/in/gen%C3%A7ay-y%C4%B1ld%C4%B1z-a1453987/)'ın çalışmalarını takip ederek Entity Framework Core öğrenme serüvenim...
 
-> - [Gençay Yıldız - A'dan Z'ye Entity Framework Core](https://www.youtube.com/playlist?list=PLQVXoXFVVtp1o3nq3-IXv42bPaFlzroBE) - Tamamlanma Oranı: %92,42
-> - [Fatih Çakıroğlu - Entity Framework Core 6 | Sıfırdan Zirveye](https://www.udemy.com/course/entity-framework-core-sifirdan-zirveye/) - Tamamlanma Oranı: %20
+> - [Gençay Yıldız - A'dan Z'ye Entity Framework Core](https://www.youtube.com/playlist?list=PLQVXoXFVVtp1o3nq3-IXv42bPaFlzroBE) - Tamamlanma Oranı: %96,96
 
 ## ⚙️ What is ORM?
 
