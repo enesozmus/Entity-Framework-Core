@@ -2,7 +2,7 @@
 
 > - [EF Core resmi dokümantasyonu](https://learn.microsoft.com/en-us/ef/core/) ve [Gençay Yıldız](https://www.linkedin.com/in/gen%C3%A7ay-y%C4%B1ld%C4%B1z-a1453987/)'ın çalışmalarını takip ederek Entity Framework Core öğrenme serüvenim...
 
-> - [Gençay Yıldız - A'dan Z'ye Entity Framework Core](https://www.youtube.com/playlist?list=PLQVXoXFVVtp1o3nq3-IXv42bPaFlzroBE) - Tamamlanma Oranı: %96,96
+> - [Gençay Yıldız - A'dan Z'ye Entity Framework Core](https://www.youtube.com/playlist?list=PLQVXoXFVVtp1o3nq3-IXv42bPaFlzroBE) - Tamamlanma Oranı: %100
 
 ## ⚙️ What is ORM?
 
